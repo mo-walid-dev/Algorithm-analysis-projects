@@ -12,4 +12,4 @@ algorithms-projects/
 │   └── Report_3_TopK_Frequent_Words.pdf
 └── 4-island-counter/
     ├── island_counter.py
-    └── Report_4_Island_Counter.pdf ازاي اعمل الشكل ده علي جيت هاب
+    └── Report_4_Island_Counter.pdf 
